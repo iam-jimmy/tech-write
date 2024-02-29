@@ -1,33 +1,28 @@
 # User Settings | Edit there as per required
 
-title: accent
-url: "http://ankitsultana.com"
-baseurl: "/accent"
+title: Jimmy Tech Write
+url: "https://iam-jimmy.github.io"
+baseurl: "/tech-write"
 
 # This will show up at the top of index page
 site_heading: >
-    foo <span class="faded">'s blog</span>
+    Jimmy <span class="faded">'s Tech Write</span>
 
-email: your@email.com
-author: yourname
+email: jimmy.work.kr@gmail.com
+author: Jimmy
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    Jimmy's tech write
 
 # This will what will show against &copy; in the footer
-copyright: accent
+copyright: jimmy
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: false         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-    Welcome! This is <span>accent</span>, a mobile friendly theme for Jekyll. The main feature of this
-    theme is that you can change the accent color. Refer the
-    <a class="underline different-highlight" href="http://ankitsultana.com/accent/documentation.html">
-        Documentation
-    </a>
-    to know how.
+    Welcome!
 
 permalink: /:title.html
 
